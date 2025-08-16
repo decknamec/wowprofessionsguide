@@ -41,14 +41,14 @@ export default function Landingpage() {
 
         <div className="mt-10 flex flex-wrap items-center justify-center gap-3">
           <a
-            href="#"
+            href="/professions"
             className="rounded-2xl border border-white/10 bg-white/10 px-5 py-3 text-sm font-medium backdrop-blur transition hover:bg-white/20"
             aria-disabled
           >
             Los geht’s
           </a>
           <a
-            href="#"
+            href="/professions"
             className="rounded-2xl border border-white/10 px-5 py-3 text-sm font-medium transition hover:bg-white/10"
             aria-disabled
           >
@@ -63,11 +63,6 @@ export default function Landingpage() {
           Keine Interaktionen – nur warmes Willkommen.
         </p>
       </section>
-
-      {/* Footer */}
-      <footer className="absolute inset-x-0 bottom-5 text-center text-[11px] text-white/50">
-        Letztes Update: 16. Aug 2025 · © Deine Seite
-      </footer>
     </main>
   );
 }
