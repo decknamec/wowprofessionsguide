@@ -22,7 +22,7 @@ const PROFESSIONS = [
     teaser: "Tränke, Phiolen & Alchemistensteine.",
     cost: "~25–35k",
     difficulty: "Mittel",
-    iconUrl: "/icons/alchemy.png",
+    iconUrl: "/icons/alchemy.jpg",
     updatedAt: "2025-08-10",
   },
   {
@@ -31,7 +31,7 @@ const PROFESSIONS = [
     teaser: "Waffen, Rüstungen & Aufwertungen.",
     cost: "~40–60k",
     difficulty: "Hoch",
-    iconUrl: "/icons/blacksmithing.png",
+    iconUrl: "/icons/blacksmithing.jpg",
     updatedAt: "2025-08-08",
   },
   {
@@ -40,7 +40,7 @@ const PROFESSIONS = [
     teaser: "Gadgets, Spielzeuge & Nützliches.",
     cost: "~30–45k",
     difficulty: "Mittel",
-    iconUrl: "/icons/engineering.png",
+    iconUrl: "/icons/engineering.jpg",
     updatedAt: "2025-08-12",
   },
   {
@@ -49,7 +49,7 @@ const PROFESSIONS = [
     teaser: "Leder-/Kettenrüstungen & Trommeln.",
     cost: "~28–42k",
     difficulty: "Mittel",
-    iconUrl: "/icons/leatherworking.png",
+    iconUrl: "/icons/leatherworking.jpg",
     updatedAt: "2025-08-09",
   },
   {
@@ -58,7 +58,7 @@ const PROFESSIONS = [
     teaser: "Stoffrüstungen, Taschen & Verzauberungen.",
     cost: "~18–30k",
     difficulty: "Niedrig",
-    iconUrl: "/icons/tailoring.png",
+    iconUrl: "/icons/tailoring.jpg",
     updatedAt: "2025-08-11",
   },
   {
@@ -67,7 +67,7 @@ const PROFESSIONS = [
     teaser: "Edelsteine, Schmuck & Sockel.",
     cost: "~35–55k",
     difficulty: "Hoch",
-    iconUrl: "/icons/jewelcrafting.png",
+    iconUrl: "/icons/jewelcrafting.jpg",
     updatedAt: "2025-08-07",
   },
   {
@@ -76,7 +76,7 @@ const PROFESSIONS = [
     teaser: "Waffen- & Rüstungsverzauberungen.",
     cost: "~22–38k",
     difficulty: "Mittel",
-    iconUrl: "/icons/enchanting.png",
+    iconUrl: "/icons/enchanting.jpg",
     updatedAt: "2025-08-12",
   },
   {
@@ -85,7 +85,7 @@ const PROFESSIONS = [
     teaser: "Glyphen, Verträge & Offhands.",
     cost: "~20–32k",
     difficulty: "Mittel",
-    iconUrl: "/icons/inscription.png",
+    iconUrl: "/icons/inscription.jpg",
     updatedAt: "2025-08-05",
   },
   {
@@ -94,7 +94,7 @@ const PROFESSIONS = [
     teaser: "Bufffood & Festmähler.",
     cost: "~8–15k",
     difficulty: "Niedrig",
-    iconUrl: "/icons/cooking.png",
+    iconUrl: "/icons/cooking.jpg",
     updatedAt: "2025-08-03",
   },
 ];
